@@ -4,12 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/dpearson2699/swift-ios-skills)](https://github.com/dpearson2699/swift-ios-skills/stargazers)
 [![Swift 6.2](https://img.shields.io/badge/Swift-6.2-F05138.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS-000000.svg?logo=apple)](https://developer.apple.com)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-built%20for-blueviolet.svg?logo=anthropic)](https://claude.ai/code)
-[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-built%20for-412991.svg?logo=openai)](https://developers.openai.com/codex)
-[![Cursor](https://img.shields.io/badge/Cursor-built%20for-00A4DC.svg)](https://cursor.com)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-built%20for-000000.svg?logo=github)](https://github.com/features/copilot)
-[![Windsurf](https://img.shields.io/badge/Windsurf-built%20for-06B6D4.svg)](https://codeium.com/windsurf)
-[![Roo Code](https://img.shields.io/badge/Roo%20Code-built%20for-F97316.svg)](https://roocode.com)
+[![40+ Agents](https://img.shields.io/badge/40%2B%20Agents-compatible-green.svg)](https://agentskills.io)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-standard-green.svg)](https://agentskills.io)
 
 23 agent skills optimized for **iOS 26+** development with Swift 6.2 and modern Apple frameworks. All code examples, patterns, and guidance target the latest APIs -- Liquid Glass, Swift 6.2 approachable concurrency, Foundation Models, StoreKit 2, SwiftData, async/await URLSession, and more. No deprecated patterns.
