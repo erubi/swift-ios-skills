@@ -37,13 +37,13 @@ Every skill is self-contained. No skill depends on another.
 Install a single skill:
 
 ```
-claude install-skill dpearson/swift-ios-skills/storekit
+claude install-skill dpearson2699/swift-ios-skills/storekit
 ```
 
 Or clone the repo and install locally:
 
 ```
-git clone https://github.com/dpearson/swift-ios-skills.git
+git clone https://github.com/dpearson2699/swift-ios-skills.git
 claude install-skill ./swift-ios-skills/storekit
 ```
 
