@@ -1,6 +1,6 @@
-# Swift iOS Skills — Agent Skills for iOS & Apple-Platform Development
+# Swift iOS Skills — Agent Skills for iOS 26+ & Apple-Platform Development
 
-23 agent skills for building iOS and macOS apps with Swift, SwiftUI, and Apple frameworks. Gives your AI coding agent expert-level knowledge of URLSession, StoreKit 2, SwiftData, Swift concurrency, Liquid Glass, WidgetKit, and more.
+23 agent skills optimized for **iOS 26+** development with Swift 6.2 and modern Apple frameworks. All code examples, patterns, and guidance target the latest APIs -- Liquid Glass, Swift 6.2 approachable concurrency, Foundation Models, StoreKit 2, SwiftData, async/await URLSession, and more. No deprecated patterns.
 
 Compatible with [Claude Code](https://claude.ai/code), [OpenAI Codex](https://developers.openai.com/codex), [Cursor](https://cursor.com), [GitHub Copilot](https://github.com/features/copilot), and [40+ other agents](https://skills.sh). Follows the open [Agent Skills](https://agentskills.io) standard.
 
